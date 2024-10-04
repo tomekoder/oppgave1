@@ -6,7 +6,8 @@ body {
   margin: 0;
   font-family: 'Candara';
   color: rgb(75, 50, 46);
-  background-color: rgb(233, 210, 179);
+  background-image: linear-gradient( rgb(209, 181, 144), rgb(255, 246, 211));
+  font-size: 0.9rem;
 }
 
 nav {
