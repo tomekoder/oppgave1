@@ -55,3 +55,8 @@ header {
   display: flex;
   padding-inline:15px;
 }
+footer{
+  background-color: rgb(209, 181, 144);
+  display: flex;
+  padding-inline:15px;
+}
