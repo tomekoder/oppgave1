@@ -43,7 +43,7 @@ h1 {
 header {
   padding-inline: 5px;
   padding-block: 15px;
-  display: inline-block;
+  min-width: fit-content;
   background-color: rgb(255, 246, 211);
   background-image: url("assets/shortearedowl1.jpg");
 
