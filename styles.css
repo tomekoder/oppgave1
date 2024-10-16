@@ -37,8 +37,8 @@ main {
 .firstSection {
   display: flex;
   justify-content: space-around;
-  align-items: center;
-  gap: 20px;
+  align-items: flex-start;
+  gap: none;
 }
 
 .leftSection {
@@ -85,15 +85,18 @@ border-style: none;
 }
 
 .rightSection {
-  
+  display: 30%;
+  display: flex;
+  justify-content: end;
 }
 
 .card {
-  width: 400px;
-  height: 600px;
+  width: 75%;
   border: 1px solid rgb(75, 50, 46);
   display: flex;
   justify-content: center;
+  align-items: center;
+
 
 }
 
@@ -102,8 +105,12 @@ border-style: none;
 }
 
 .cardImg { 
-  height: 500px;
+  max-width: 100%;
   display: flex;
   justify-content: inherit;
-  border-radius: 15px;
+
+}
+
+.jordugleBilde {
+  min-width: 250px;
 }
