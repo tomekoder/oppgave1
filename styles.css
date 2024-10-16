@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: 'Candara', Arial, Helvetica, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: rgb(75, 50, 46);
   background-image: linear-gradient( rgb(209, 181, 144), rgb(255, 246, 211));
   font-size: 0.9rem;
