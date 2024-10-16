@@ -42,6 +42,7 @@ main {
 }
 
 .leftSection {
+  
 
 }
 
@@ -104,4 +105,5 @@ border-style: none;
   height: 500px;
   display: flex;
   justify-content: inherit;
+  border-radius: 15px;
 }
